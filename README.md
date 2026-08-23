@@ -35,7 +35,11 @@ However it does electrically function as a standard HAT+.
 
 ### PNP IO Board
 The IO board will need to be fabricated and assembled.
-See [PNP-IO-Board](./PNP-IO-Board).
+
+#### Components
+| Ref. | Qty. | Manufacturer    | Part Number | Description                                   | Notes                 |
+| :--- | ---: | :-------------- | :---------- | :-------------------------------------------- | :-------------------- |
+
 
 ### 3D Printed Bases
 The base for the IO board and the appropriate base for your Raspberry Pi will need to be fabricated.
