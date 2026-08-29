@@ -1,7 +1,7 @@
 # Industrial IO Board for Raspberry Pi
 
 Many industrial sensors, actuators, and indicator lights use 24V digital signals.
-The GPIO on the Raspberry PI 40-pin header, are strictly 3.3V and not directly compatible with these devices.
+The [GPIO on the Raspberry PI 40-pin header](https://pinout.xyz/), are strictly 3.3V and not directly compatible with these devices.
 This board adapts the GPIO on the Raspberry Pi to be able to interface with these signals.
 
 Industrial 24V signals come in two main flavors: PNP and NPN.
@@ -64,7 +64,7 @@ You will also need a Raspberry Pi with a B+ or Zero form factor and everything t
 See the official Raspberry Pi [getting started](https://www.raspberrypi.com/documentation/computers/getting-started.html) documentation for details.
 The IO board does not power the Raspberry Pi, so an appropriate power supply for your Pi will be needed.
 
-
+https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
 
 ```
 Industrial-IO-Board-for-Raspberry-Pi

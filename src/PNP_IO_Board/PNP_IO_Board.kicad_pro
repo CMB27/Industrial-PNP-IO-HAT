@@ -639,6 +639,12 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -697,13 +703,33 @@
         "uuid": "90b623a2-8ea6-42f1-9ddd-848acd990c87"
       }
     ],
-    "used_designators": "J7-10,R1-2,R25,SW1,A1,D21-22,C1-3,F1-2,Q1,U1,#PWR2,#PWR17-19,#PWR22,#PWR25-30,#PWR51-65",
+    "used_designators": "J6-11,JP1-2,R1-2,R5-25,SW1,A1,D1-29,C1-4,F1-2,Q1-13,U1-4,#PWR1-2,#PWR4-5,#PWR12,#PWR17-35,#PWR38-79",
     "variants": []
   },
   "sheets": [
     [
       "90b623a2-8ea6-42f1-9ddd-848acd990c87",
       "PNP_IO_Board"
+    ],
+    [
+      "867b4ca5-5432-4114-a859-5efd73335dcf",
+      "POWER"
+    ],
+    [
+      "f49f9b8b-0d73-4a5a-99b7-05f8f775a263",
+      "RASPBERRY_PI"
+    ],
+    [
+      "6f6a6d50-cb7a-45b9-8cc3-736373ea2526",
+      "INPUTS"
+    ],
+    [
+      "c69088cf-9acc-492c-a483-5d14c02f525a",
+      "OUTPUTS"
+    ],
+    [
+      "50d1fbfb-ade6-4ace-a04c-e7436774868b",
+      "RS485"
     ]
   ],
   "text_variables": {},
