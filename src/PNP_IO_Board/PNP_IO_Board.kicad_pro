@@ -703,17 +703,13 @@
         "uuid": "90b623a2-8ea6-42f1-9ddd-848acd990c87"
       }
     ],
-    "used_designators": "J6-11,JP1-2,R1-2,R5-25,SW1,A1,D1-29,C1-4,F1-2,Q1-13,U1-4,#PWR1-2,#PWR4-5,#PWR12,#PWR17-35,#PWR38-79",
+    "used_designators": "J6-11,JP1-2,R1-25,SW1,A1,D1-29,C1-4,F1-2,Q1-13,U1-4,#PWR1-2,#PWR4-7,#PWR12,#PWR17-35,#PWR38-79",
     "variants": []
   },
   "sheets": [
     [
       "90b623a2-8ea6-42f1-9ddd-848acd990c87",
       "PNP_IO_Board"
-    ],
-    [
-      "867b4ca5-5432-4114-a859-5efd73335dcf",
-      "POWER"
     ],
     [
       "f49f9b8b-0d73-4a5a-99b7-05f8f775a263",
@@ -730,6 +726,10 @@
     [
       "50d1fbfb-ade6-4ace-a04c-e7436774868b",
       "RS485"
+    ],
+    [
+      "867b4ca5-5432-4114-a859-5efd73335dcf",
+      "POWER"
     ]
   ],
   "text_variables": {},

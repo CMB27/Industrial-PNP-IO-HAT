@@ -1226,7 +1226,7 @@
 		)
 		(uuid "f87222ea-c987-4fc1-8059-6a0c960ec2fb")
 	)
-	(hierarchical_label "RS485_TX"
+	(hierarchical_label "DI"
 		(shape input)
 		(at 106.68 99.06 180)
 		(effects
@@ -1237,7 +1237,7 @@
 		)
 		(uuid "43df087c-9170-400f-90c9-84b2495931e1")
 	)
-	(hierarchical_label "RS485_RX"
+	(hierarchical_label "RO"
 		(shape output)
 		(at 106.68 88.9 180)
 		(effects
@@ -1248,7 +1248,7 @@
 		)
 		(uuid "4b3f91aa-9124-4d84-b913-3bedfb0e34c8")
 	)
-	(hierarchical_label "RS485_D-"
+	(hierarchical_label "D-"
 		(shape bidirectional)
 		(at 154.94 91.44 0)
 		(effects
@@ -1259,7 +1259,7 @@
 		)
 		(uuid "4fab8c3c-e1aa-4a02-8cc8-2fc6c370dad5")
 	)
-	(hierarchical_label "RS485_D+"
+	(hierarchical_label "D+"
 		(shape bidirectional)
 		(at 154.94 86.36 0)
 		(effects
@@ -1270,7 +1270,7 @@
 		)
 		(uuid "83af1f17-102e-4e15-9389-7e5576b06268")
 	)
-	(hierarchical_label "RS485_DE"
+	(hierarchical_label "DE"
 		(shape input)
 		(at 106.68 93.98 180)
 		(effects
@@ -1381,7 +1381,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "3.9K"
 			(at 124.46 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
