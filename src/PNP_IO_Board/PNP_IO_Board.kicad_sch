@@ -3152,7 +3152,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Project_Footprints:TerminalBlockHeader_1x12_P3.5_Horizontal"
+		(property "Footprint" "Project_Footprints:TerminalBlockHeader_1x12_P3.5_Horizontal_Outputs"
 			(at 210.82 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -3344,7 +3344,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Project_Footprints:TerminalBlockHeader_1x12_P3.5_Horizontal_1"
+		(property "Footprint" "Project_Footprints:TerminalBlockHeader_1x12_P3.5_Horizontal_Inputs"
 			(at 55.88 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -3697,7 +3697,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Project_Footprints:TerminalBlockHeader_1x12_P3.5_Horizontal"
+		(property "Footprint" "Project_Footprints:TerminalBlockHeader_1x12_P3.5_Horizontal_Outputs"
 			(at 210.82 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -3966,7 +3966,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Project_Footprints:TerminalBlockHeader_1x12_P3.5_Horizontal"
+		(property "Footprint" "Project_Footprints:TerminalBlockHeader_1x12_P3.5_Horizontal_Inputs"
 			(at 55.88 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -4157,7 +4157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Project_Footprints:TerminalBlockHeader_1x12_P3.5_Horizontal"
+		(property "Footprint" "Project_Footprints:TerminalBlockHeader_1x12_P3.5_Horizontal_Inputs"
 			(at 55.88 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -4270,7 +4270,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MC_1,5_3-G-3.5_1x03_P3.50mm_Horizontal"
+		(property "Footprint" "Project_Footprints:TerminalBlockHeader_1x3_P3.5_Horizontal_RS485"
 			(at 210.82 114.3 0)
 			(hide yes)
 			(show_name no)

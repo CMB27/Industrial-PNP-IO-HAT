@@ -66,7 +66,7 @@
           "pad_connection": 1,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
-          "thermal_relief_spoke_width": 0.5
+          "thermal_relief_spoke_width": 0.6
         }
       },
       "diff_pair_dimensions": [
@@ -211,7 +211,8 @@
       ],
       "track_widths": [
         0.0,
-        0.6
+        0.6,
+        2.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -481,7 +482,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -703,7 +704,7 @@
         "uuid": "90b623a2-8ea6-42f1-9ddd-848acd990c87"
       }
     ],
-    "used_designators": "J6-11,JP1-2,R1-25,SW1,A1,D1-29,C1-4,F1-2,Q1-13,U1-4,#PWR1-2,#PWR4-7,#PWR12,#PWR17-35,#PWR38-79",
+    "used_designators": "J6-11,JP1-2,R1-25,SW1,A1,D1-29,C1-6,F1-2,Q1-13,U1-10,#PWR1-2,#PWR4-8,#PWR12,#PWR17-36,#PWR38-87",
     "variants": []
   },
   "sheets": [

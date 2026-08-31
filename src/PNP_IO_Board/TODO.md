@@ -1,5 +1,2 @@
 - Check output chip supporting circuitry
-- Check if pullup resistors are needed/recommended on the I2C lines
-- Consider simplifying labeling
-- Consider adding UART connector
 - Consider adding switch to enable 120 Ohm terminating resistor

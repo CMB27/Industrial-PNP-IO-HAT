@@ -3175,7 +3175,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 150.622 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -3337,7 +3337,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 179.578 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -3756,7 +3756,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 163.322 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -4433,7 +4433,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 170.18 109.22 0)
 			(hide yes)
 			(show_name no)
