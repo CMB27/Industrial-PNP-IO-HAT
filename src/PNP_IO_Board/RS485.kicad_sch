@@ -1425,6 +1425,17 @@
 				)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 127 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b17be9b8-855f-4813-b8cc-48286ced7655")
 		)
@@ -1497,6 +1508,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 114.3 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 114.3 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -1658,6 +1680,17 @@
 			)
 		)
 		(property "Description" "RS-485, RS-422 Half-duplex transceiver, SOIC-8"
+			(at 139.7 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
 			(at 139.7 93.98 0)
 			(hide yes)
 			(show_name no)
