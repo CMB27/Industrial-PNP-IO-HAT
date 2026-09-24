@@ -1747,6 +1747,10 @@
 		(at 210.82 134.62)
 		(uuid "059f416f-c8d1-4d96-9203-935902a08602")
 	)
+	(no_connect
+		(at 60.96 152.4)
+		(uuid "922f720a-10ca-4e56-8ad1-a1b561dc8ada")
+	)
 	(wire
 		(pts
 			(xy 203.2 137.16) (xy 203.2 144.78)
@@ -2076,16 +2080,6 @@
 			(type default)
 		)
 		(uuid "4338df13-0265-459f-ac5d-f3ddb62a758d")
-	)
-	(wire
-		(pts
-			(xy 60.96 152.4) (xy 76.2 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4426a94c-f767-4d21-a212-bc76353d0166")
 	)
 	(wire
 		(pts
@@ -3196,6 +3190,28 @@
 				)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 210.82 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
+			(at 210.82 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6be6b6e2-15ff-4ad9-aab4-7f84b68d9508")
 		)
@@ -3398,6 +3414,28 @@
 				)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 55.88 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
+			(at 55.88 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "01a133bc-97bf-4122-83a3-fc604fc070fe")
 		)
@@ -3510,6 +3548,28 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 53.34 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 53.34 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
 			(at 53.34 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -3773,6 +3833,28 @@
 				)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 210.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
+			(at 210.82 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "32082a4d-42c9-4956-8dee-c6b7a0effd63")
 		)
@@ -3974,6 +4056,28 @@
 				)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 55.88 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
+			(at 55.88 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "40d3629e-f888-4fb2-8762-fa38a45cb3ab")
 		)
@@ -4087,6 +4191,28 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 55.88 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 55.88 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
 			(at 55.88 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -4211,6 +4337,28 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 210.82 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 210.82 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
 			(at 210.82 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -4386,6 +4534,28 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 210.82 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 210.82 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
 			(at 210.82 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -5041,7 +5211,7 @@
 	)
 	(sheet
 		(at 76.2 144.78)
-		(size 25.4 12.7)
+		(size 25.4 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5067,7 +5237,7 @@
 			)
 		)
 		(property "Sheetfile" "Power.kicad_sch"
-			(at 76.2 158.0646 0)
+			(at 76.2 155.5246 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5076,16 +5246,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
-			)
-		)
-		(pin "EN" input
-			(at 76.2 152.4 180)
-			(uuid "41971dab-9191-444c-9682-579a0d6f4012")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 		(pin "VIN" input
