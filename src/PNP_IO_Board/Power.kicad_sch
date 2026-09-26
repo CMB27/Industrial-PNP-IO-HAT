@@ -2622,7 +2622,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_LCC:PLCC-44_16.6x16.6mm_P1.27mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
 			(at 152.4 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -2633,7 +2633,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.nichicon.co.jp/english/series_items/catalog_pdf/e-uvz.pdf"
 			(at 152.4 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -2655,7 +2655,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Nichicon"
 			(at 152.4 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -2666,7 +2666,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "UVZ1H221MPD"
 			(at 152.4 95.25 0)
 			(hide yes)
 			(show_name no)

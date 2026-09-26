@@ -1,0 +1,176 @@
+(footprint "Tensility_54-00167"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -16.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8b583a60-a3b6-4dae-80c8-8de0abdeacce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "54-00167"
+		(at 0 -14.75 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f03a96d0-a996-4721-80c8-0d40647a105a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://tensility.s3.us-west-2.amazonaws.com/imports/product_spec_sheets/54-00167.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "915b5ee8-8bcb-441a-8bcb-eec32b6a016a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Barrel Jack"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9fb34b93-c879-4576-8d0e-d650af83a7c4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -4.56 -12.36)
+		(end -4.56 -1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2b8df294-7c0b-4c42-84ff-2f20c2cae005")
+	)
+	(fp_line
+		(start -2.1 -12.36)
+		(end -4.56 -12.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "630521ae-19f7-4a69-98ea-939735a27a88")
+	)
+	(fp_line
+		(start 4.56 -12.36)
+		(end 2.1 -12.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2ae44398-5148-47cb-8fed-24765e665fc4")
+	)
+	(fp_line
+		(start 4.56 -11)
+		(end 4.56 -12.36)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fe7c00ec-7bd3-4678-a500-70809450c086")
+	)
+	(fp_line
+		(start 4.56 -1)
+		(end 4.56 -6.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "36979704-95d1-48ce-82ce-5d8f49fd75b8")
+	)
+	(fp_line
+		(start -4.5 0)
+		(end 4.5 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "b6c703fc-2b1b-49b1-88a2-7814519f79d8")
+	)
+	(fp_rect
+		(start -4.5 -12.3)
+		(end 4.5 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "02c4384b-f5ae-46bd-ab68-9be11acb9384")
+	)
+	(fp_text user "BOARD EDGE"
+		(at 0 1 0)
+		(layer "Cmts.User")
+		(uuid "4af6010b-7475-49a0-99b6-6e8576d50f60")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 0 -11.75)
+		(size 4 1.8)
+		(drill oval 3 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cad00ce7-592f-44ac-8b2e-2f9ac76568ed")
+	)
+	(pad "2" thru_hole oval
+		(at 0 -5.5)
+		(size 4 1.8)
+		(drill oval 3 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8fda4c7a-de7d-429a-8ab1-9f73bf099a02")
+	)
+	(pad "3" thru_hole oval
+		(at 4.8 -8.75 90)
+		(size 4 1.8)
+		(drill oval 3 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "be0400b9-972e-4271-8682-f47abfd387cf")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Project_3DModels.3dshapes/54-00167.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

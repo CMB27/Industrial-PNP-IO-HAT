@@ -3514,7 +3514,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_BarrelJack:BarrelJack_CUI_PJ-102AH_Horizontal"
+		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
 			(at 54.61 153.416 0)
 			(hide yes)
 			(show_name no)
@@ -3525,7 +3525,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://tensility.s3.us-west-2.amazonaws.com/imports/product_spec_sheets/54-00167.pdf"
 			(at 54.61 153.416 0)
 			(hide yes)
 			(show_name no)
@@ -3547,7 +3547,7 @@
 				)
 			)
 		)
-		(property "Sim.Device" ""
+		(property "Manufacturer" "Tensility International Corp"
 			(at 53.34 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -3558,18 +3558,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
-			(at 53.34 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
+		(property "Part Number" "54-00167"
 			(at 53.34 152.4 0)
 			(hide yes)
 			(show_name no)
