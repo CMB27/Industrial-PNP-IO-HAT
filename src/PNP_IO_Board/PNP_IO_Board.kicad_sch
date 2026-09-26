@@ -3514,7 +3514,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
+		(property "Footprint" "Project_Footprints:Tensility_54-00167"
 			(at 54.61 153.416 0)
 			(hide yes)
 			(show_name no)
@@ -3547,7 +3547,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Tensility International Corp"
+		(property "Manufacturer" "Tensility"
 			(at 53.34 152.4 0)
 			(hide yes)
 			(show_name no)

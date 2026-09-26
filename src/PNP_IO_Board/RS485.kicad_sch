@@ -1690,7 +1690,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LTC2862xS8"
+		(property "Value" "LTC2862AxS8"
 			(at 141.8433 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1712,7 +1712,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/2862345fc.pdf"
+		(property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2862a.pdf"
 			(at 127 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -1745,7 +1745,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Analog Devices"
 			(at 139.7 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1756,7 +1756,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "LTC2862AHS8-2#PBF"
 			(at 139.7 93.98 0)
 			(hide yes)
 			(show_name no)

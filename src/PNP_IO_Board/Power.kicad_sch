@@ -2080,7 +2080,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Infineon Technologies"
+		(property "Manufacturer" "Infineon"
 			(at 114.3 91.44 90)
 			(hide yes)
 			(show_name no)
@@ -2902,7 +2902,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Voltage Regulator"
 			(at 177.8 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -2924,7 +2924,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "MEAN WELL"
 			(at 177.8 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -2935,7 +2935,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "NID65-5"
 			(at 177.8 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -3026,7 +3026,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
+		(property "Footprint" "Fuse:Fuseholder_Littelfuse_Nano2_154x"
 			(at 95.25 90.678 90)
 			(hide yes)
 			(show_name no)
