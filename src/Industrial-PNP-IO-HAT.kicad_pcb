@@ -19570,7 +19570,7 @@
 			(uuid "e34c484b-c862-4673-89c5-6d217de2924d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Fuse.3dshapes/Fuseholder_Littelfuse_Nano2_154x.step"
+		(model "${KIPRJMOD}/Project_3DModels.3dshapes/Littelfuse_01550900M.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19579,6 +19579,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/Project_3DModels.3dshapes/Littelfuse_Nano2_Fuse.step"
+			(offset
+				(xyz 0 0 1.11)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)

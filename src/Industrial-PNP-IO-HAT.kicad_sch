@@ -3249,7 +3249,7 @@
 			(uuid "6f194f86-75cf-4b92-bd50-7aca54652e42")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "J4")
 					(unit 1)
@@ -3328,7 +3328,7 @@
 			(uuid "a937bff9-433c-4d72-b377-76dda77abf2a")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "#PWR064")
 					(unit 1)
@@ -3473,7 +3473,7 @@
 			(uuid "7c9285d2-d1f0-4f0c-87f2-be8309a4df40")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "J1")
 					(unit 1)
@@ -3579,7 +3579,7 @@
 			(uuid "57a30eba-83ef-49b9-88f3-ef9b8fbb4a01")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "J7")
 					(unit 1)
@@ -3657,7 +3657,7 @@
 			(uuid "a8700159-bfe8-4280-9073-0344ef16a9a4")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "#PWR018")
 					(unit 1)
@@ -3735,7 +3735,7 @@
 			(uuid "9fe538c7-8b61-478c-9696-d0c407078746")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "#PWR022")
 					(unit 1)
@@ -3881,7 +3881,7 @@
 			(uuid "7d298b70-ad93-4a83-84c7-4b21fd3d5380")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "J5")
 					(unit 1)
@@ -3959,7 +3959,7 @@
 			(uuid "424107be-1360-41ff-847f-6c7e550fb846")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "#PWR011")
 					(unit 1)
@@ -4104,7 +4104,7 @@
 			(uuid "42cde15f-4f7f-4508-809a-2ef224e11f6f")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "J3")
 					(unit 1)
@@ -4249,7 +4249,7 @@
 			(uuid "4d3a6806-5e29-4f59-8db1-d31ee8d88f1c")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "J2")
 					(unit 1)
@@ -4368,7 +4368,7 @@
 			(uuid "fa328ad3-c316-4e7b-a400-61150d91600f")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "J6")
 					(unit 1)
@@ -4446,7 +4446,7 @@
 			(uuid "34a46523-1b54-4d3e-85c7-50e0089ac8b4")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "#PWR026")
 					(unit 1)
@@ -4571,7 +4571,7 @@
 			(uuid "0c5887ac-1520-4ac9-823a-a199fd88e8aa")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "J8")
 					(unit 1)
@@ -4649,7 +4649,7 @@
 			(uuid "97fd9107-1266-49ae-bdef-99738b16e1c8")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "#PWR06")
 					(unit 1)
@@ -4727,7 +4727,7 @@
 			(uuid "c4b16224-f13d-49e0-824b-851386f2cfee")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "#PWR07")
 					(unit 1)
@@ -4806,7 +4806,7 @@
 			(uuid "7baf7e36-ae82-43b1-9d24-c5efd607b352")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(reference "#PWR015")
 					(unit 1)
@@ -4904,7 +4904,7 @@
 			)
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(page "5")
 				)
@@ -5191,7 +5191,7 @@
 			)
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(page "3")
 				)
@@ -5248,7 +5248,7 @@
 			)
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(page "6")
 				)
@@ -5455,7 +5455,7 @@
 			)
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(page "4")
 				)
@@ -5752,7 +5752,7 @@
 			)
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"
 					(page "2")
 				)

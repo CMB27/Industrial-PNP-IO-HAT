@@ -3153,7 +3153,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2759b165-4ef5-4e7b-8c1c-809a50fe4120")
-		(property "Reference" "R4"
+		(property "Reference" "R24"
 			(at 149.86 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3248,9 +3248,9 @@
 			(uuid "121722d5-9408-4cd9-b2e0-52424a109258")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
-					(reference "R4")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -3327,7 +3327,7 @@
 			(uuid "84bbc102-f3d6-49ab-b4df-ddccbf618ab9")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
 					(reference "#PWR050")
 					(unit 1)
@@ -3338,7 +3338,6 @@
 	(symbol
 		(lib_id "Device:R")
 		(at 177.8 95.25 0)
-		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3346,9 +3345,8 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4f233cf6-4386-46d2-859d-79b7b0e091b2")
-		(property "Reference" "R1"
+		(property "Reference" "R22"
 			(at 175.26 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3356,7 +3354,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "1K"
@@ -3367,11 +3365,11 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 179.578 95.25 90)
+			(at 176.022 95.25 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3443,9 +3441,9 @@
 			(uuid "3e99214c-5bcb-4c46-9865-42bf16d0adfc")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
-					(reference "R1")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -3521,7 +3519,7 @@
 			(uuid "47589009-cb15-413e-b2a0-4aa3cb73283d")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
 					(reference "#PWR077")
 					(unit 1)
@@ -3540,7 +3538,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "54482a28-68f0-4646-b659-f6005677ae16")
-		(property "Reference" "C4"
+		(property "Reference" "C9"
 			(at 212.09 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3635,9 +3633,9 @@
 			(uuid "070f502e-481c-4dfd-8025-97ba18ceb5f1")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
-					(reference "C4")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -3656,7 +3654,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f720b92-ad80-40a6-af58-076d318d2e52")
-		(property "Reference" "U4"
+		(property "Reference" "U9"
 			(at 193.6181 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3769,9 +3767,9 @@
 			(uuid "dbf8e89a-347e-4f07-b798-78860fcb68b5")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
-					(reference "U4")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -3847,7 +3845,7 @@
 			(uuid "40b852a0-5969-4c49-af6e-0a5be0d32328")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
 					(reference "#PWR079")
 					(unit 1)
@@ -3866,7 +3864,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "86ac3993-011c-478b-b181-0aa8b44de3c8")
-		(property "Reference" "R3"
+		(property "Reference" "R23"
 			(at 162.56 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3961,9 +3959,9 @@
 			(uuid "41243718-e203-4a7d-adb1-218571dde650")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
-					(reference "R3")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -4039,7 +4037,7 @@
 			(uuid "e3d33105-51b0-4d70-907c-3a19ad68836f")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
 					(reference "#PWR076")
 					(unit 1)
@@ -4118,7 +4116,7 @@
 			(uuid "0bd2bead-57a8-4456-ac1e-286c4ca04779")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
 					(reference "#PWR049")
 					(unit 1)
@@ -4197,7 +4195,7 @@
 			(uuid "d9535478-5b9e-4ccd-8870-5331c45d4624")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
 					(reference "#PWR01")
 					(unit 1)
@@ -4276,7 +4274,7 @@
 			(uuid "482ca09e-bf8e-4ea1-9446-8c942759d092")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
 					(reference "#PWR04")
 					(unit 1)
@@ -4510,7 +4508,7 @@
 			(uuid "de5ef154-0b2f-408f-abb0-3beb1f728031")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
 					(reference "J10")
 					(unit 1)
@@ -4588,7 +4586,7 @@
 			(uuid "dbb21486-856e-43ff-970b-6ca549b7e08a")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
 					(reference "#PWR078")
 					(unit 1)
@@ -4704,7 +4702,7 @@
 			(uuid "ad116425-d4f8-48e2-b0df-0ab47d5339d5")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
 					(reference "JP1")
 					(unit 1)

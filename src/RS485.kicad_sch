@@ -1351,7 +1351,7 @@
 			(uuid "d6907059-1b38-4953-b0ac-feb56e3f047f")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/50d1fbfb-ade6-4ace-a04c-e7436774868b"
 					(reference "#PWR017")
 					(unit 1)
@@ -1370,7 +1370,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "68107163-6961-4dfd-9248-b5693acf6789")
-		(property "Reference" "R2"
+		(property "Reference" "R25"
 			(at 124.46 81.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1465,9 +1465,9 @@
 			(uuid "2ecab38b-9b62-4503-91b9-e42b18690dea")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/50d1fbfb-ade6-4ace-a04c-e7436774868b"
-					(reference "R2")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -1485,7 +1485,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c9ad9e0a-d09d-4373-a32c-69eb13998522")
-		(property "Reference" "C1"
+		(property "Reference" "C10"
 			(at 110.49 81.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1580,9 +1580,9 @@
 			(uuid "303901dd-b405-4788-8cbd-df6832883170")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/50d1fbfb-ade6-4ace-a04c-e7436774868b"
-					(reference "C1")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -1659,7 +1659,7 @@
 			(uuid "d0a27ab0-5472-4be1-b6d1-afe0b8736649")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/50d1fbfb-ade6-4ace-a04c-e7436774868b"
 					(reference "#PWR063")
 					(unit 1)
@@ -1679,7 +1679,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d79652a4-a0e3-43a0-893d-f9421506681e")
-		(property "Reference" "U1"
+		(property "Reference" "U10"
 			(at 141.8433 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1792,9 +1792,9 @@
 			(uuid "7f56a433-d2e2-40c0-9918-9f2437fb99d7")
 		)
 		(instances
-			(project "PNP_IO_Board"
+			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/50d1fbfb-ade6-4ace-a04c-e7436774868b"
-					(reference "U1")
+					(reference "U10")
 					(unit 1)
 				)
 			)

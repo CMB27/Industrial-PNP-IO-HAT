@@ -9,3 +9,4 @@ Capacitor Yellow: `CF8F00`
 Inductor Gray: `6F6F6F`
 Thermal Pad Blue: `9FEFFF`
 Heatsink Gray: `AFAFAF`
+Fuseholder Tan: `E2D2AA`
