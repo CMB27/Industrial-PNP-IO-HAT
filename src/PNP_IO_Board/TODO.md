@@ -1,2 +1,0 @@
-- Check output chip supporting circuitry
-- Consider adding switch to enable 120 Ohm terminating resistor
