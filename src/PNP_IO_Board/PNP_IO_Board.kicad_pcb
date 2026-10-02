@@ -1816,14 +1816,34 @@
 			(uuid "73b5d675-3a2d-4c80-8f3a-6211a339f561")
 		)
 		(fp_line
-			(start 7.56 -2.94)
-			(end -10.1 -2.94)
+			(start -12.64 -2.94)
+			(end -12.64 -0.44)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "6590317b-d83c-41fe-8b03-a435d09cd5d2")
+		)
+		(fp_line
+			(start 10.1 -2.94)
+			(end 10.1 -0.44)
 			(stroke
 				(width 0.12)
 				(type default)
 			)
 			(layer "F.SilkS")
 			(uuid "be6a8554-ebc6-4fd4-90f7-e5dc8f05d9f2")
+		)
+		(fp_line
+			(start 10.1 -2.94)
+			(end -12.64 -2.94)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "636aab68-c633-41e4-9b34-8664bbd74432")
 		)
 		(fp_line
 			(start -25.46 -4.06)
@@ -1905,6 +1925,26 @@
 			)
 			(layer "F.Fab")
 			(uuid "66f9a785-ae84-4acf-9cd1-bc8bab745aa3")
+		)
+		(fp_line
+			(start -12.7 -3)
+			(end -12.7 -0.5)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e9ed225d-34c8-44ea-a372-e505766cab31")
+		)
+		(fp_line
+			(start 10.16 -3)
+			(end 10.16 -0.5)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "7d23bf35-9b75-4604-993b-b543e1689af7")
 		)
 		(fp_line
 			(start 25.4 -4)
@@ -2071,20 +2111,7 @@
 			(uuid "e1db1e0e-e29e-49e9-b5e2-adc54822ca25")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Project_3DModels.3dshapes/NID100_Basic.step"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 		(model "${KIPRJMOD}/Project_3DModels.3dshapes/MeanWell_NID35.step"
-			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2096,6 +2123,19 @@
 			)
 		)
 		(model "${KIPRJMOD}/Project_3DModels.3dshapes/MeanWell_NID65.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/Project_3DModels.3dshapes/MeanWell_NID100.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
