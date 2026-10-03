@@ -2299,7 +2299,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 58.42 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -2332,7 +2332,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 58.42 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -2343,7 +2343,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 58.42 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -2414,7 +2414,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/products/Capacitors/part/C1206C104K5RACTU"
 			(at 185.42 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -2426,6 +2426,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 185.42 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 185.42 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "C1206C104K5RACTU"
 			(at 185.42 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -3354,7 +3376,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/products/Capacitors/part/C1206C104K5RACTU"
 			(at 248.92 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -3366,6 +3388,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 248.92 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 248.92 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "C1206C104K5RACTU"
 			(at 248.92 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -3640,7 +3684,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 71.12 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -3673,7 +3717,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 71.12 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -3684,7 +3728,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 71.12 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -3911,7 +3955,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 121.92 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -3944,7 +3988,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 121.92 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -3955,7 +3999,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 121.92 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -4026,7 +4070,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 83.82 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -4059,7 +4103,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 83.82 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -4070,7 +4114,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 83.82 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -4219,7 +4263,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/products/Capacitors/part/C1206C104K5RACTU"
 			(at 172.72 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -4231,6 +4275,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 172.72 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 172.72 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "C1206C104K5RACTU"
 			(at 172.72 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -4661,7 +4727,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/products/Capacitors/part/C1206C104K5RACTU"
 			(at 236.22 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -4673,6 +4739,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 236.22 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 236.22 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "C1206C104K5RACTU"
 			(at 236.22 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -5570,7 +5658,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/products/Capacitors/part/C1206C104K5RACTU"
 			(at 223.52 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -5582,6 +5670,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 223.52 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 223.52 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "C1206C104K5RACTU"
 			(at 223.52 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -5940,7 +6050,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/products/Capacitors/part/C1206C104K5RACTU"
 			(at 198.12 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -5952,6 +6062,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 198.12 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 198.12 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "C1206C104K5RACTU"
 			(at 198.12 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -6022,7 +6154,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 33.02 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -6055,7 +6187,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 33.02 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -6066,7 +6198,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 33.02 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -6269,7 +6401,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/products/Capacitors/part/C1206C104K5RACTU"
 			(at 210.82 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -6281,6 +6413,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 210.82 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 210.82 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "C1206C104K5RACTU"
 			(at 210.82 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -6507,7 +6661,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 45.72 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -6540,7 +6694,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 45.72 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -6551,7 +6705,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 45.72 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -6826,7 +6980,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 96.52 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -6859,7 +7013,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 96.52 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -6870,7 +7024,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 96.52 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -7691,7 +7845,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 109.22 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -7724,7 +7878,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 109.22 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -7735,7 +7889,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 109.22 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -7806,7 +7960,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/products/Capacitors/part/C1206C104K5RACTU"
 			(at 160.02 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -7818,6 +7972,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 160.02 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 160.02 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "C1206C104K5RACTU"
 			(at 160.02 138.43 0)
 			(hide yes)
 			(show_name no)

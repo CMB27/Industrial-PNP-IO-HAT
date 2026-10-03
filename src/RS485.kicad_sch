@@ -1403,7 +1403,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 127 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -1436,7 +1436,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 127 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -1447,7 +1447,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-073K9L"
 			(at 127 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -1518,7 +1518,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/products/Capacitors/part/C1206C104K5RACTU"
 			(at 114.3 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -1551,7 +1551,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KEMET"
 			(at 114.3 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -1562,7 +1562,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "C1206C104K5RACTU"
 			(at 114.3 82.55 0)
 			(hide yes)
 			(show_name no)

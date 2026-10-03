@@ -2063,7 +2063,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b6cf697-6aa0-4ccf-9614-992e3feef047")
-		(property "Reference" "Q5"
+		(property "Reference" "Q4"
 			(at 104.14 86.5377 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2097,7 +2097,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/dtc114e-d.pdf"
 			(at 100.33 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -2130,7 +2130,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 100.33 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -2141,7 +2141,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MMUN2211LT1G"
 			(at 100.33 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -2164,7 +2164,7 @@
 		(instances
 			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/6f6a6d50-cb7a-45b9-8cc3-736373ea2526"
-					(reference "Q5")
+					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -2577,7 +2577,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/dtc114e-d.pdf"
 			(at 138.43 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -2610,7 +2610,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 138.43 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -2621,7 +2621,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MMUN2211LT1G"
 			(at 138.43 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -2900,7 +2900,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 139.7 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -2933,7 +2933,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 139.7 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -2944,7 +2944,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 139.7 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -3172,7 +3172,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 203.2 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -3205,7 +3205,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 203.2 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -3216,7 +3216,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 203.2 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -3287,7 +3287,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 165.1 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -3320,7 +3320,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 165.1 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -3331,7 +3331,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 165.1 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -3403,7 +3403,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/dtc114e-d.pdf"
 			(at 151.13 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -3436,7 +3436,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 151.13 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -3447,7 +3447,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MMUN2211LT1G"
 			(at 151.13 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -3600,7 +3600,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 76.2 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -3633,7 +3633,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 76.2 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -3644,7 +3644,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 76.2 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -3716,7 +3716,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/dtc114e-d.pdf"
 			(at 87.63 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -3749,7 +3749,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 87.63 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -3760,7 +3760,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MMUN2211LT1G"
 			(at 87.63 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -3960,7 +3960,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 152.4 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -3993,7 +3993,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 152.4 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -4004,7 +4004,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 152.4 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -4281,7 +4281,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/dtc114e-d.pdf"
 			(at 62.23 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -4314,7 +4314,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 62.23 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -4325,7 +4325,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MMUN2211LT1G"
 			(at 62.23 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -4400,7 +4400,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/dtc114e-d.pdf"
 			(at 163.83 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -4433,7 +4433,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 163.83 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -4444,7 +4444,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MMUN2211LT1G"
 			(at 163.83 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -4519,7 +4519,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/dtc114e-d.pdf"
 			(at 125.73 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -4552,7 +4552,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 125.73 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -4563,7 +4563,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MMUN2211LT1G"
 			(at 125.73 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -4794,7 +4794,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 88.9 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -4827,7 +4827,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 88.9 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -4838,7 +4838,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 88.9 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -5397,7 +5397,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 190.5 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -5430,7 +5430,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 190.5 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -5441,7 +5441,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 190.5 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -5794,7 +5794,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 127 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -5827,7 +5827,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 127 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -5838,7 +5838,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 127 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -5910,7 +5910,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/dtc114e-d.pdf"
 			(at 113.03 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5943,7 +5943,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 113.03 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5954,7 +5954,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MMUN2211LT1G"
 			(at 113.03 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -6028,7 +6028,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 63.5 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -6061,7 +6061,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 63.5 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -6072,7 +6072,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 63.5 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -6379,7 +6379,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/dtc114e-d.pdf"
 			(at 176.53 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -6412,7 +6412,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 176.53 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -6423,7 +6423,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MMUN2211LT1G"
 			(at 176.53 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -6497,7 +6497,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 177.8 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -6530,7 +6530,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 177.8 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -6541,7 +6541,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 177.8 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -6896,7 +6896,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/dtc114e-d.pdf"
 			(at 74.93 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -6929,7 +6929,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 74.93 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -6940,7 +6940,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MMUN2211LT1G"
 			(at 74.93 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7140,7 +7140,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 114.3 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -7173,7 +7173,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 114.3 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -7184,7 +7184,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 114.3 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -7255,7 +7255,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"
 			(at 101.6 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -7288,7 +7288,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 101.6 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -7299,7 +7299,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC1206JR-07330RL"
 			(at 101.6 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -7733,7 +7733,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/dtc114e-d.pdf"
 			(at 201.93 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -7766,7 +7766,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 201.93 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -7777,7 +7777,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MMUN2211LT1G"
 			(at 201.93 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -7852,7 +7852,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/dtc114e-d.pdf"
 			(at 189.23 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -7885,7 +7885,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "onsemi"
 			(at 189.23 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -7896,7 +7896,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "MMUN2211LT1G"
 			(at 189.23 139.7 0)
 			(hide yes)
 			(show_name no)
