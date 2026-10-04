@@ -5751,6 +5751,16 @@
 				(justify right)
 			)
 		)
+		(pin "CTS" input
+			(at 152.4 119.38 0)
+			(uuid "b7cc485f-1e84-48e6-91d9-43651809cfeb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87"

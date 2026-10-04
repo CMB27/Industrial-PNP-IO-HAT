@@ -1,0 +1,238 @@
+(footprint "Fuseholder_Littelfuse_Nano2_154x"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Littelfuse NANO2 holder, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_154_154t_154l_154tl_datasheet.pdf.pdf")
+	(tags "SMD Nano2 holder")
+	(property "Reference" "REF**"
+		(at 0 -3.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "af444a20-ea52-4968-addd-bafaab40d294")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Fuseholder_Littelfuse_Nano2_154x"
+		(at 0 3.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "97cd9245-d55a-416d-9d58-13d4eb5d4e99")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d73b66c-6035-49e3-b7c2-83aea4a6d997")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0589a4ec-b29f-47cb-b32e-7fe8691a6e93")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -4.975 -2.625)
+		(end -4.975 -2.165)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a2f3c174-12cb-4d90-87d4-fcb47f0eec30")
+	)
+	(fp_line
+		(start -4.975 -2.625)
+		(end 4.975 -2.625)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d85c6237-b36e-49d2-ba6f-f1492f6cf9c8")
+	)
+	(fp_line
+		(start -4.975 2.165)
+		(end -4.975 2.625)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5fe9ea3b-4dd0-4570-9779-f4b956d499ca")
+	)
+	(fp_line
+		(start -4.975 2.625)
+		(end 4.975 2.625)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "80aadefd-8b18-4a91-9090-9b5d5637a370")
+	)
+	(fp_line
+		(start 4.975 -2.625)
+		(end 4.975 -2.165)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5180ff9e-940e-4666-9ff3-d48c9168bafe")
+	)
+	(fp_line
+		(start 4.975 2.625)
+		(end 4.975 2.165)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d5d2d0c4-11e1-40b4-8131-ee38df656ebe")
+	)
+	(fp_line
+		(start -5.56 -2.77)
+		(end -5.56 2.77)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "39d5e016-3273-4418-9c29-a9aff69a68c3")
+	)
+	(fp_line
+		(start -5.56 -2.77)
+		(end 5.56 -2.77)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0f60636d-b199-4897-bb0d-ec81c13437c2")
+	)
+	(fp_line
+		(start -5.56 2.77)
+		(end 5.56 2.77)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bdcb6514-f2f0-481e-89eb-0fb03e8958d3")
+	)
+	(fp_line
+		(start 5.56 -2.77)
+		(end 5.56 2.77)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "115cbc7c-e92f-4a6d-ad24-88df0ac1c617")
+	)
+	(fp_line
+		(start -4.865 -2.515)
+		(end -4.865 2.515)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f15858b4-dba5-47fa-af77-f5250e7635e8")
+	)
+	(fp_line
+		(start -4.865 -2.515)
+		(end 4.865 -2.515)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c5781805-7366-47a2-ad18-5d34797015bb")
+	)
+	(fp_line
+		(start -4.865 2.515)
+		(end 4.865 2.515)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "540c7f47-441f-422d-b7ad-c602a882068e")
+	)
+	(fp_line
+		(start 4.865 2.515)
+		(end 4.865 -2.515)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9eca5bd9-1812-4e3c-8d62-1d4800ceaea6")
+	)
+	(pad "1" smd roundrect
+		(at -3.185 0)
+		(size 4.24 3.81)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.0656167979)
+		(uuid "84ca25fc-4ed5-4fb1-b129-d7cc955d1316")
+	)
+	(pad "2" smd roundrect
+		(at 3.185 0)
+		(size 4.24 3.81)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.0656167979)
+		(uuid "d8d60e3a-8c69-4e35-b6a2-5f2bfdcf6099")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Project_3DModels.3dshapes/Littelfuse_01550900M.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/Project_3DModels.3dshapes/Littelfuse_Nano2_Fuse.step"
+		(offset
+			(xyz 0 0 1.11)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

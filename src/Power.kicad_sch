@@ -3426,7 +3426,7 @@
 				)
 			)
 		)
-		(property "Value" "NID65-5"
+		(property "Value" "NID35-5"
 			(at 177.8 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3447,7 +3447,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.meanwellusa.com/upload/pdf/NID65/NID65-spec.pdf"
+		(property "Datasheet" "https://www.meanwellusa.com/upload/pdf/NID35/NID35-spec.pdf"
 			(at 177.8 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -3491,7 +3491,7 @@
 				)
 			)
 		)
-		(property "Part Number" "NID65-5"
+		(property "Part Number" "NID35-5"
 			(at 177.8 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -3582,7 +3582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuseholder_Littelfuse_Nano2_154x"
+		(property "Footprint" "Project_Footprints:Fuseholder_Littelfuse_Nano2_154x"
 			(at 95.25 90.678 90)
 			(hide yes)
 			(show_name no)

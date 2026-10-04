@@ -2046,10 +2046,6 @@
 		(uuid "f83147bc-3818-4045-98c2-abc7a30bee07")
 	)
 	(no_connect
-		(at 91.44 116.84)
-		(uuid "1879c29d-b334-442f-a545-68cd367da1b2")
-	)
-	(no_connect
 		(at 172.72 109.22)
 		(uuid "dc465a6a-584b-44ba-93d5-e5943199021e")
 	)
@@ -2405,6 +2401,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 111.76) (xy 91.44 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76e1ccc3-0d54-4c61-8c07-ade038c27320")
+	)
+	(wire
+		(pts
 			(xy 86.36 88.9) (xy 91.44 88.9)
 		)
 		(stroke
@@ -2585,7 +2591,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 111.76) (xy 91.44 111.76)
+			(xy 86.36 116.84) (xy 91.44 116.84)
 		)
 		(stroke
 			(width 0)
@@ -2885,12 +2891,12 @@
 	)
 	(hierarchical_label "~{_IN11}"
 		(shape input)
-		(at 86.36 99.06 180)
+		(at 129.54 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "040e8295-937e-40bf-8f4f-1deec8e926a2")
 	)
@@ -2907,7 +2913,7 @@
 	)
 	(hierarchical_label "~{_IN2}"
 		(shape input)
-		(at 129.54 83.82 0)
+		(at 129.54 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2918,12 +2924,12 @@
 	)
 	(hierarchical_label "_OUT4"
 		(shape output)
-		(at 86.36 111.76 180)
+		(at 129.54 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "10ef5e73-145f-4c47-911f-fcddd574ba75")
 	)
@@ -2962,7 +2968,7 @@
 	)
 	(hierarchical_label "~{_IN8}"
 		(shape input)
-		(at 129.54 93.98 0)
+		(at 129.54 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2971,9 +2977,20 @@
 		)
 		(uuid "41657ec7-ebf8-4727-aa9b-acfa63abec9e")
 	)
+	(hierarchical_label "CTS"
+		(shape input)
+		(at 86.36 111.76 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "51268465-da8b-4bdc-aa29-0beaf009cab5")
+	)
 	(hierarchical_label "~{_IN4}"
 		(shape input)
-		(at 129.54 86.36 0)
+		(at 129.54 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2995,16 +3012,27 @@
 	)
 	(hierarchical_label "~{_IN6}"
 		(shape input)
-		(at 129.54 91.44 0)
+		(at 86.36 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "600a47c7-4087-4629-8c1e-d27d6d79d9f8")
+	)
+	(hierarchical_label "_OUT6"
+		(shape output)
+		(at 129.54 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "600a47c7-4087-4629-8c1e-d27d6d79d9f8")
+		(uuid "666bbed4-894f-4281-b601-1cf052e8a63c")
 	)
-	(hierarchical_label "_OUT6"
+	(hierarchical_label "_OUT5"
 		(shape output)
 		(at 86.36 114.3 180)
 		(effects
@@ -3013,22 +3041,11 @@
 			)
 			(justify right)
 		)
-		(uuid "666bbed4-894f-4281-b601-1cf052e8a63c")
-	)
-	(hierarchical_label "_OUT5"
-		(shape output)
-		(at 129.54 111.76 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
 		(uuid "6e6f524f-534b-4845-958b-83e8a9d6f2da")
 	)
 	(hierarchical_label "~{_IN1}"
 		(shape input)
-		(at 86.36 81.28 180)
+		(at 86.36 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3039,12 +3056,12 @@
 	)
 	(hierarchical_label "~{_IN9}"
 		(shape input)
-		(at 86.36 96.52 180)
+		(at 129.54 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "7ff36ad1-794b-4652-a870-33a15a03e483")
 	)
@@ -3083,29 +3100,29 @@
 	)
 	(hierarchical_label "~{_IN5}"
 		(shape input)
-		(at 86.36 88.9 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9ca1b63f-f61c-47be-891c-8ca69dd1892b")
-	)
-	(hierarchical_label "~{_IN0}"
-		(shape input)
-		(at 129.54 76.2 0)
+		(at 129.54 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
+		(uuid "9ca1b63f-f61c-47be-891c-8ca69dd1892b")
+	)
+	(hierarchical_label "~{_IN0}"
+		(shape input)
+		(at 86.36 99.06 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
 		(uuid "a117a732-e03e-42ec-8096-8c378b12ae1e")
 	)
 	(hierarchical_label "~{_IN3}"
 		(shape input)
-		(at 86.36 86.36 180)
+		(at 86.36 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3116,12 +3133,12 @@
 	)
 	(hierarchical_label "_OUT7"
 		(shape output)
-		(at 129.54 114.3 0)
+		(at 86.36 116.84 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "ce04be46-8e38-4607-9b08-33570c441215")
 	)
@@ -3138,18 +3155,18 @@
 	)
 	(hierarchical_label "~{_IN10}"
 		(shape input)
-		(at 129.54 96.52 0)
+		(at 86.36 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "e6bde52e-cd4a-48e8-8b8d-4ee561b1fdde")
 	)
 	(hierarchical_label "~{_IN7}"
 		(shape input)
-		(at 86.36 93.98 180)
+		(at 86.36 86.36 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4175,7 +4192,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
+		(property "Footprint" "Project_Footprints:SW_SPDT_PCM12"
 			(at 175.26 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -4186,7 +4203,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/slw-662712-15a-smt-tr.pdf"
 			(at 167.64 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -4199,6 +4216,28 @@
 		)
 		(property "Description" "Switch, single pole double throw"
 			(at 175.26 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Same Sky"
+			(at 175.26 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "SLW-662712-15A-SMT-TR"
+			(at 175.26 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
