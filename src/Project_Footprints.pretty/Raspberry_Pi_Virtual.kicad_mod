@@ -1,0 +1,277 @@
+(footprint "Raspberry_Pi_Virtual"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -20.69 -1.27 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "3f01b672-b3ed-4f7b-a759-adf13a721aa7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left)
+		)
+	)
+	(property "Value" "RASPBERRY_PI"
+		(at -20.69 1.27 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "218419a9-7199-4087-a685-5e620a25c400")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8fba3943-3851-4f17-ac76-545562367dce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6313d313-b838-4f35-aeef-38609bec25c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr board_only exclude_from_pos_files exclude_from_bom)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -28 49.5)
+		(end -28 -29.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "ef612789-be29-4ce3-b181-cbcd562f697f")
+	)
+	(fp_line
+		(start -25 -32.5)
+		(end 25 -32.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "498e792f-a6b7-4dd2-8770-d373cbc34461")
+	)
+	(fp_line
+		(start 2 -29.5)
+		(end 2 29.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "2d76c24b-42a8-4ebd-80d6-03ab89136e8d")
+	)
+	(fp_line
+		(start 25 32.5)
+		(end -25 32.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "7e868c91-906c-47de-82fe-a1e443550849")
+	)
+	(fp_line
+		(start 25 52.5)
+		(end -25 52.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "9acf3bc0-5435-445b-a845-34f015f2c431")
+	)
+	(fp_line
+		(start 28 -29.5)
+		(end 28 49.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "cc626f0b-5db4-4ab2-91ec-8997d9ea8d81")
+	)
+	(fp_rect
+		(start -27.04 -25.654)
+		(end -21.96 25.654)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "ac9463e7-680f-421f-9ad1-08c9572f6dde")
+	)
+	(fp_arc
+		(start -28 -29.5)
+		(mid -27.12132 -31.62132)
+		(end -25 -32.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "736d81c4-c10f-4bf5-95ff-11be27c9e866")
+	)
+	(fp_arc
+		(start -25 32.5)
+		(mid -27.12132 31.62132)
+		(end -28 29.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "f8e84f76-54ab-4abf-994e-a0baaeb87430")
+	)
+	(fp_arc
+		(start -25 52.5)
+		(mid -27.12132 51.62132)
+		(end -28 49.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "6ec1c0ef-e90a-4792-b66b-b50f93b11fa0")
+	)
+	(fp_arc
+		(start -1 -32.5)
+		(mid 1.12132 -31.62132)
+		(end 2 -29.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "cd18593a-6672-4caa-b73f-c75b126e31ed")
+	)
+	(fp_arc
+		(start 2 29.5)
+		(mid 1.12132 31.62132)
+		(end -1 32.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "3513897b-8c0c-4e24-8f1b-29059daea850")
+	)
+	(fp_arc
+		(start 25 -32.5)
+		(mid 27.12132 -31.62132)
+		(end 28 -29.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "25869c65-39e3-4f69-8e96-6aef67150cf2")
+	)
+	(fp_arc
+		(start 28 29.5)
+		(mid 27.12132 31.62132)
+		(end 25 32.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "f833fcdd-d91b-4ed3-8725-aa5ddfcb6903")
+	)
+	(fp_arc
+		(start 28 49.5)
+		(mid 27.12132 51.62132)
+		(end 25 52.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "ea881469-fd06-4533-a278-a4a44fbff7e9")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Project_3DModels.3dshapes/Raspberry_Pi_3_B+.step"
+		(offset
+			(xyz 0 0 12.44)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -180 -90)
+		)
+	)
+	(model "${KIPRJMOD}/Project_3DModels.3dshapes/Pololu_1952.step"
+		(offset
+			(xyz 24.5 29 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KIPRJMOD}/Project_3DModels.3dshapes/Pololu_1952.step"
+		(offset
+			(xyz 24.5 -29 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KIPRJMOD}/Project_3DModels.3dshapes/Pololu_1952.step"
+		(offset
+			(xyz -24.5 29 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KIPRJMOD}/Project_3DModels.3dshapes/Pololu_1952.step"
+		(offset
+			(xyz -24.5 -29 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
