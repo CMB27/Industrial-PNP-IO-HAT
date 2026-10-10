@@ -4,6 +4,15 @@
 	(generator_version "10.0")
 	(uuid "a3dba18b-4323-43a0-93a3-ba4c283d296b")
 	(paper "USLetter")
+	(title_block
+		(title "Industrial PNP IO HAT+")
+		(date "2026-10-10")
+		(rev "0.0.1")
+		(company "Designer: C. M. Bulliner")
+		(comment 2 "OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.")
+		(comment 3 "This document is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING")
+		(comment 4 "© 2023 C. M. Bulliner. Released under the CERN-OHL-P v2 license.")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
@@ -999,12 +1008,6 @@
 		(uuid "527634d4-d0db-4b59-825a-e35c1ce8b2d7")
 	)
 	(junction
-		(at 185.42 60.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5f2c4e40-fa2d-413d-a830-f6ad511f9303")
-	)
-	(junction
 		(at 160.02 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1027,6 +1030,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "80027086-1bbd-44f9-b70a-a43d3b0952ec")
+	)
+	(junction
+		(at 185.42 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "843a2d6a-a2be-4ddf-8a77-60bbb664029a")
 	)
 	(junction
 		(at 58.42 60.96)
@@ -1277,16 +1286,6 @@
 			(type default)
 		)
 		(uuid "1b4279ee-7ada-49d7-9643-b6622603d623")
-	)
-	(wire
-		(pts
-			(xy 154.94 60.96) (xy 185.42 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b4f73f8-2d88-4d32-a649-0dfdc07f5fa3")
 	)
 	(wire
 		(pts
@@ -1560,7 +1559,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 60.96) (xy 185.42 33.02)
+			(xy 185.42 33.02) (xy 185.42 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1780,6 +1779,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 60.96) (xy 185.42 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae258e62-4989-453f-835b-d45744ae654c")
+	)
+	(wire
+		(pts
 			(xy 139.7 48.26) (xy 45.72 48.26)
 		)
 		(stroke
@@ -1916,7 +1925,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "c80bbab3-5282-467d-a77e-141c1080f919")
+		(uuid "c4c9f2b0-013a-4a77-b385-f123b629a870")
 	)
 	(wire
 		(pts

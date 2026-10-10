@@ -1,0 +1,146 @@
+(footprint "LED_5mm_Yellow"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "LED, diameter 5.0mm, 2 pins")
+	(tags "LED")
+	(property "Reference" "REF**"
+		(at 0 -3.96 0)
+		(layer "F.SilkS")
+		(uuid "71120742-9ced-4d8a-8f3e-c9fe76d3e7ed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED_5mm"
+		(at 0 3.96 0)
+		(layer "F.Fab")
+		(uuid "c960ec55-812f-4efa-8024-3fcf7dff1aaa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b024d72a-a773-4f58-b58a-a11510cd3d28")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8851e268-0b84-40b4-a92c-d9db8ffb31a5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.56 -1.583193)
+		(end -2.56 1.583193)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a65a9484-ae94-4a3e-8ef2-8142cac0675f")
+	)
+	(fp_arc
+		(start -2.56 -1.583193)
+		(mid 3.01 0)
+		(end -2.56 1.583193)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5290d4b0-ea2d-43a2-ba41-1a6f1c110ac6")
+	)
+	(fp_line
+		(start -3 -1.703673)
+		(end -3 1.703673)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c4f4a484-bbc9-4668-9021-1d8bd17c6110")
+	)
+	(fp_arc
+		(start -3 -1.703673)
+		(mid 3.45 0)
+		(end -3 1.703673)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "756d9064-ec0c-44bb-af92-4859f11d2c6e")
+	)
+	(fp_line
+		(start -2.5 -1.566046)
+		(end -2.5 1.566046)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "32c3fea5-b08d-4890-91ec-ad10332242ca")
+	)
+	(fp_arc
+		(start -2.5 -1.566046)
+		(mid 2.95 0)
+		(end -2.5 1.566046)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "25c24e2b-40d3-4dbd-b9c6-2bac0bf41c00")
+	)
+	(pad "1" thru_hole roundrect
+		(at -1.27 0)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "84402177-a176-40bb-b275-d5a6e9872b15")
+	)
+	(pad "2" thru_hole circle
+		(at 1.27 0)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "150de80f-768f-44af-8cb9-2c4bd425e2d7")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Project_3DModels.3dshapes/LED_5mm_Yellow.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -180)
+		)
+	)
+)

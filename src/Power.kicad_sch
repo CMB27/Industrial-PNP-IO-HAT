@@ -4,6 +4,15 @@
 	(generator_version "10.0")
 	(uuid "2f6f1087-16d4-4ab0-b822-2550cd1bfa17")
 	(paper "USLetter")
+	(title_block
+		(title "Industrial PNP IO HAT+")
+		(date "2026-10-10")
+		(rev "0.0.1")
+		(company "Designer: C. M. Bulliner")
+		(comment 2 "OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.")
+		(comment 3 "This document is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING")
+		(comment 4 "© 2023 C. M. Bulliner. Released under the CERN-OHL-P v2 license.")
+	)
 	(lib_symbols
 		(symbol "Device:C_Polarized_US"
 			(pin_numbers
@@ -2369,7 +2378,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c7808e6-19cf-4205-b368-68e2565a6f1c")
-		(property "Reference" "D22"
+		(property "Reference" "D23"
 			(at 129.54 93.9799 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2455,7 +2464,7 @@
 		(instances
 			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/867b4ca5-5432-4114-a859-5efd73335dcf"
-					(reference "D22")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -2473,7 +2482,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "364a3bcb-deb3-4cf2-a995-8ee62e1d9ba4")
-		(property "Reference" "R27"
+		(property "Reference" "R28"
 			(at 142.24 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2559,7 +2568,7 @@
 		(instances
 			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/867b4ca5-5432-4114-a859-5efd73335dcf"
-					(reference "R27")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -2577,7 +2586,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "366f1338-0fda-4535-aa84-05c2a604ee4d")
-		(property "Reference" "D21"
+		(property "Reference" "D22"
 			(at 207.01 95.5674 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2685,7 +2694,7 @@
 		(instances
 			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/867b4ca5-5432-4114-a859-5efd73335dcf"
-					(reference "D21")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -2781,7 +2790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "866978c8-3410-4469-9221-7525d57f39b7")
-		(property "Reference" "R26"
+		(property "Reference" "R27"
 			(at 116.84 106.6799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2867,7 +2876,7 @@
 		(instances
 			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/867b4ca5-5432-4114-a859-5efd73335dcf"
-					(reference "R26")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -2885,7 +2894,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "899b21ef-023c-40c2-9c79-8c5ac39c2cf5")
-		(property "Reference" "R21"
+		(property "Reference" "R22"
 			(at 205.74 104.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2982,7 +2991,7 @@
 		(instances
 			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/867b4ca5-5432-4114-a859-5efd73335dcf"
-					(reference "R21")
+					(reference "R22")
 					(unit 1)
 				)
 			)

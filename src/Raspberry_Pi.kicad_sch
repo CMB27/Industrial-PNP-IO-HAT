@@ -4,6 +4,15 @@
 	(generator_version "10.0")
 	(uuid "c24889e0-598f-4b6f-ad15-60fbfde20d22")
 	(paper "USLetter")
+	(title_block
+		(title "Industrial PNP IO HAT+")
+		(date "2026-10-10")
+		(rev "0.0.1")
+		(company "Designer: C. M. Bulliner")
+		(comment 2 "OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.")
+		(comment 3 "This document is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING")
+		(comment 4 "© 2023 C. M. Bulliner. Released under the CERN-OHL-P v2 license.")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
@@ -546,7 +555,12 @@
 			(in_bom yes)
 			(on_board yes)
 			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(jumper_pin_groups
+				("2" "4")
+				("1" "17")
+				("14" "20" "25" "30" "34" "39" "6" "9")
+			)
 			(property "Reference" "A"
 				(at 0 33.02 0)
 				(show_name no)
@@ -3186,7 +3200,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2759b165-4ef5-4e7b-8c1c-809a50fe4120")
-		(property "Reference" "R24"
+		(property "Reference" "R25"
 			(at 149.86 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3283,7 +3297,7 @@
 		(instances
 			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
-					(reference "R24")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -3379,7 +3393,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4f233cf6-4386-46d2-859d-79b7b0e091b2")
-		(property "Reference" "R22"
+		(property "Reference" "R23"
 			(at 175.26 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3476,7 +3490,7 @@
 		(instances
 			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
-					(reference "R22")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -3897,7 +3911,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "86ac3993-011c-478b-b181-0aa8b44de3c8")
-		(property "Reference" "R23"
+		(property "Reference" "R24"
 			(at 162.56 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3994,7 +4008,7 @@
 		(instances
 			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
-					(reference "R23")
+					(reference "R24")
 					(unit 1)
 				)
 			)

@@ -844,7 +844,12 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(jumper_pin_groups
+			("2" "4")
+			("1" "17")
+			("14" "20" "25" "30" "34" "39" "6" "9")
+		)
 		(property "Reference" "A"
 			(at 0 33.02 0)
 			(show_name no)
