@@ -4450,7 +4450,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbd518cc-782c-4aa3-b3e3-33402be5f189")
-		(property "Reference" "J10"
+		(property "Reference" "J9"
 			(at 106.68 60.96 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4665,7 +4665,7 @@
 		(instances
 			(project "Industrial-PNP-IO-HAT"
 				(path "/90b623a2-8ea6-42f1-9ddd-848acd990c87/f49f9b8b-0d73-4a5a-99b7-05f8f775a263"
-					(reference "J10")
+					(reference "J9")
 					(unit 1)
 				)
 			)

@@ -6008,7 +6008,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Sparkfun"
+		(property "Manufacturer" "SparkFun"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6805,7 +6805,7 @@
 		(layer "F.Cu")
 		(uuid "59814140-4bd5-4ad9-ad7b-87dd6e06d8fd")
 		(at 193.7 107.95)
-		(property "Reference" "J10"
+		(property "Reference" "J9"
 			(at -21 -22.86 0)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -9508,7 +9508,7 @@
 				)
 			)
 		)
-		(property "Part Number" "LTL2R3KGD-EM"
+		(property "Part Number" "LTL2R3KYD-EM"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
