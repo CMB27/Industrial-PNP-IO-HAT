@@ -11,7 +11,7 @@
 		(company "Designer: C. M. Bulliner")
 		(comment 2 "OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.")
 		(comment 3 "This document is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING")
-		(comment 4 "© 2023 C. M. Bulliner. Released under the CERN-OHL-P v2 license.")
+		(comment 4 "© 2026 C. M. Bulliner. Released under the CERN-OHL-P v2 license.")
 	)
 	(lib_symbols
 		(symbol "Device:LED"
