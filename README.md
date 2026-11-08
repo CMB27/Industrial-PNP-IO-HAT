@@ -1,5 +1,7 @@
 # Industrial PNP IO HAT+ for Raspberry Pi
 
+![Circuit Board Top View](extras/Industrial-PNP-IO-HAT_Top.png)
+
 Many industrial sensors, actuators, and indicator lights use 24V digital signals.
 The [GPIO on the Raspberry PI 40-pin header](https://pinout.xyz/), are strictly 3.3V and not directly compatible with these devices.
 This board adapts the GPIO on the Raspberry Pi to be able to interface with these higher voltage signals.
@@ -81,17 +83,12 @@ If you happen to blow the fuse, the replacement part is Littelfuse `0451005.MRL`
 Various methods can be used to assemble this board.
 The list of tools and supplies below is for the hand soldering method.
 
-- A good soldering iron, preferably with temperature control  
-  Please do not try to use a $5 soldering iron; these tend to have to overall effect of just making people hate soldering.
+- A good soldering iron, preferably with temperature control - Please do not try to use a $5 soldering iron; these tend to have to overall effect of just making people hate soldering.
 - Tweezers
-- Solder  
-  Leaded is easier to work with, but it's, well... leaded.
-- Flux (optional)  
-  I say optional, but if you are using lead-free solder, I would get it.
-- Solder wick (optional)  
-  If you anticipate screwing something up while soldering, this will help to fix things.
-- Smoke absorber (optional)  
-  I'm a non-smoker; I'd like to remain that way.
+- Solder - Leaded is easier to work with, but it's, well... leaded.
+- Flux (optional) - I say optional, but if you are using lead-free solder, I would get it.
+- Solder wick (optional) - If you anticipate screwing something up while soldering, this will help to fix things.
+- Smoke absorber (optional) - I'm a non-smoker; I'd like to remain that way.
 - A Phillips No.1 screwdriver
 - A 5mm wrench
 
